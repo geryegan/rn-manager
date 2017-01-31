@@ -2,6 +2,7 @@
 	"extends": "rallycoding",
 	"run": "onSave",
 	"rules": {
-		"linebreak-style": ["error", "windows"]
+		"linebreak-style": ["error", "windows"],
+		"arrow-body-style": 0
 	}
 }
